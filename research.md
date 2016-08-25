@@ -1,3 +1,7 @@
+# JobMe
+
+### An app for quickly and easily finding a job without stress.
+
 - [Our research plan](https://docs.google.com/document/d/1qB7dfIFZ20zkwc4UUmwvtpO5lzscaqSrjE_WIp-wD14/edit?usp=sharing)
 - [Research insights](https://docs.google.com/document/d/1a4H84V5ok9FTO3X97ZmTjfqYccnPcKTuJhpgAVEiK9I/edit?usp=sharing)
 - [User personas](https://docs.google.com/document/d/1qB7dfIFZ20zkwc4UUmwvtpO5lzscaqSrjE_WIp-wD14/edit?usp=sharing)
